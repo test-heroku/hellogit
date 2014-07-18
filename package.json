@@ -14,7 +14,7 @@
   "main": "web.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/test-heroku/test.git"
+    "url": "https://github.com/test-heroku/.git"
   },
   "keywords": [
     "testheroku"
@@ -22,7 +22,7 @@
   "author": "spirit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/test-heroku/test/issues"
+    "url": "https://github.com/test-heroku/hellogit/issues"
   },
-  "homepage": "https://github.com/test-heroku/test"
+  "homepage": "https://github.com/test-heroku/hellogit"
 }
