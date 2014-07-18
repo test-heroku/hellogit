@@ -14,7 +14,7 @@
   "main": "web.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/test-heroku/.git"
+    "url": "https://github.com/test-heroku/hellogit.git"
   },
   "keywords": [
     "testheroku"
